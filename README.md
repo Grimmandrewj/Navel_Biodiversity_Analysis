@@ -2,8 +2,8 @@ Here is a link to the published github page: https://grimmandrewj.github.io/Bell
 
 # Goal
 - In this assignment, I was tasked with building an interactive dashboard to explore a provided Belly Button Biodiversity dataset.
-- The dataset catalogs the microbes that colonize human navels identified by microbial species (operational taxonomic units, or OTUs)
-- The dashboard was to include a dropdown list of test subjects, which would then update/repopulate data visulizations with the corresponding data
+- The dataset catalogs the microbes that colonize human navels identified by microbial species (operational taxonomic units, or OTUs).
+- The dashboard was to include a dropdown list of test subjects, which would then update/repopulate data visulizations with the corresponding data.
 
 # Method
 - First, I assigned the provided url to a variable and created a function to build the charts
